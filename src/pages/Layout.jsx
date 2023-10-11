@@ -22,7 +22,7 @@ const Layout = () => {
 
                             <Sidebar />
 
-                            <div className='w-full h-full overflow-y-auto transition-transform duration-500 transform translate-x-0' ref={content} >
+                            <div className='w-full h-full overflow-hidden transition-transform duration-500 transform translate-x-0' ref={content} >
                                 <div className='w-full h-full' >
                                     <Content />
                                 </div>
