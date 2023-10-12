@@ -17,7 +17,7 @@ const Dashboard = () => {
         </div>
         
         <div className='h-[calc(100vh-22rem)]' >
-        <div className='h-full mx-8 bg-white/20 overflow-hidden' >
+        <div className='h-full mx-8 bg-white/30 overflow-hidden rounded-md' >
             <TableContainer sx={{maxHeight: '100%'}} >
                 <Table stickyHeader sx={{minWidth: 650}} aria-label='simple table' >
                     <TableHead >

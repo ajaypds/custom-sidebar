@@ -10,7 +10,7 @@ const Layout = () => {
     return (
         <>
             <div className='w-screen h-screen bg-gray-300 bg-cover' style={{
-                backgroundImage: `url('https://media.istockphoto.com/id/1350788409/photo/pink-color-background.webp?b=1&s=170667a&w=0&k=20&c=w2q6NV8dHpNIWpYpq_capQau6-RDNoJepXXMhRH5ySo=')`,
+                backgroundImage: `url('image-url')`,
 
             }} >
                 <div className='w-screen h-screen backdrop-blur-sm bg-white/70' >
